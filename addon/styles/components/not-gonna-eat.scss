@@ -1,0 +1,7 @@
+@import 'node_modules/ember-frost-core/addon/styles/frost-theme';
+
+.hello {
+  width: 200px;
+  height: 200px;
+  background-color: $frost-color-green-1;
+}

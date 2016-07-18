@@ -1,0 +1,1 @@
+export { default } from 'postcss-addon/components/not-gonna-eat';
